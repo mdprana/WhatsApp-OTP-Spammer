@@ -6,6 +6,6 @@
 3) Programm will running until u stop it
 ![Screenshot from 2024-02-28 21-43-18](https://github.com/mdprana/WhatsApp-OTP-Spammer/assets/95018619/bb08c2b5-58f7-416b-9fb2-e88439c1ed51)
 
-Warning: Use at ur own risk!
+# Warning: Use at ur own risk!
 
 # Enjoyy!!
