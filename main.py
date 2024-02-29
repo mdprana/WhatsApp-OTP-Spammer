@@ -325,7 +325,7 @@ def start(nomor,x): # Def Untuk Start Tools
         
 def main():
     os.system("cls") # cls Terminal agar CMD berwarna
-    autoketik(f"Selamat datang di {merah}MySpamBot")
+    autoketik(f"Selamat datang di {merah}WhatsApp OTP Spammer")
     print(f"""{kuning}Author      : {hijau}Prana Ganteng
 {kuning}Instagram   : {biru}instagram.com/mdprana""")
     # Contoh : 089508226367
