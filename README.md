@@ -23,3 +23,7 @@ Ex: 081234567890
 # Warning: Use at ur own risk!
 
 # Enjoyy!!
+
+## License
+
+[MIT License](https://choosealicense.com/licenses/mit/)
