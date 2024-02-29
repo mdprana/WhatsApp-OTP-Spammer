@@ -26,4 +26,4 @@ Ex: 081234567890
 
 ## License
 
-[MIT License](https://choosealicense.com/licenses/mit/)
+[MIT License](LICENSE)
