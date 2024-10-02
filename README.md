@@ -8,7 +8,7 @@ A Message Spammer tool on WhatsApp that send so much OTP code from various App t
 2) Enter victim WhatsApp number
 
 ```bash
-Ex: 081234567890
+Ex: 93214 80619
 ```
 
 ![Screenshot from 2024-02-28 21-40-18](https://github.com/mdprana/WhatsApp-OTP-Spammer/assets/95018619/af1b9a37-fad1-4471-a0ee-8cbd0d7327c6)
